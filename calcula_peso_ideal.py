@@ -1,4 +1,4 @@
-genero = input("Digite o genero(M/F):")
+altura= input(())
 
 h = (input("Digite a altura:"))
 
@@ -7,4 +7,4 @@ if genero == "F":
 else:
    peso = float((72.7*h)-58)
 
-print(f"Seu peso ideal é {peso:.2f}")
+print(f"Seu peso ideal é {peso:.2f}"
