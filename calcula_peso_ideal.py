@@ -7,4 +7,4 @@ if genero == "F":
 else:
    peso = float((72.7*h)-58)
 
-print(f"{peso:.2f}")?
+print(f"{peso:.2f}")
